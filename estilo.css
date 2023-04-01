@@ -192,10 +192,10 @@ html{
     flex-wrap: wrap;
 }
 
-.sobremi .fila .col .contenedor-intereses .interes{
+.sobremi .fila .col .contenedor-intereses .intereses{
     width: 100px;
     height: 100px;
-    background-color: #252a2e;
+    background-color: #252A2E;
     border-radius: 10px;
     margin: 0 15px 15px 0;
     display: flex;
@@ -203,4 +203,42 @@ html{
     align-items: center;
     justify-content: center;
     transition: .3s;
+}
+
+.sobremi .fila .col .contenedor-intereses .interes:hover{
+    background-color: #1CB698;
+}
+
+.sobremi .fila .col .contenedor-intereses .interes i{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.sobremi button{
+    cursor: pointer;
+    background-color: transparent;
+    border: 2px solid #fff;
+    width: fit-content;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 22px;
+    font-size: 16px;
+    color: #fff;
+    position: relative;
+    z-index: 10;
+}
+
+.sobremi button .overlay{
+    position: absolute;
+    top : 0;
+    left: 0;
+    width: 0;
+    height: 100%;
+    background-color: #1CB698;
+    z-index: -1;
+    transform-style: 1s;
+}
+
+.sobremi button:hover .overlay{
+    width: 100%;
 }
