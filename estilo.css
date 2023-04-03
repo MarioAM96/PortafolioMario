@@ -662,3 +662,13 @@ footer .arriba{
     line-height: 50px;
     font-size: 18px;
 }
+
+/*SECCION  RESPONSIVE*/
+
+@media screen and (max-width:980px)
+nav{
+    display: none;
+}
+.nav-responsive{
+    display: block;
+}
