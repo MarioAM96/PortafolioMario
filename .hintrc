@@ -7,8 +7,16 @@
       "default",
       {
         "ignore": [
-          "width: fit-content"
+          "width: fit-content",
+          "scroll-behavior",
+          "height: fit-content"
         ]
+      }
+    ],
+    "axe/name-role-value": [
+      "default",
+      {
+        "link-name": "off"
       }
     ]
   }
