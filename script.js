@@ -26,6 +26,11 @@ function efectoHabilidades(){
         habilidades[0].classList.add("javascript");
         habilidades[1].classList.add("htmlcss");
         habilidades[2].classList.add("python");
+        habilidades[3].classList.add("laravel");
+        habilidades[4].classList.add("sql");
+        habilidades[5].classList.add("comunicacion");
+        habilidades[6].classList.add("trabajoenequipo");
+        habilidades[7].classList.add("creatividad");
     }
 }
 

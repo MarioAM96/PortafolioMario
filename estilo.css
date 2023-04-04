@@ -341,6 +341,51 @@ html{
     100%{width: 70%;}
 }
 
+.skills .skill .laravel{
+    width: 0%;
+    animation: 2s laravel forwards;
+}
+@keyframes .laravel{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
+.skills .skill .sql{
+    width: 0%;
+    animation: 2s sql forwards;
+}
+@keyframes .sql{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
+.skills .skill .comunicacion{
+    width: 0%;
+    animation: 2s comunicacion forwards;
+}
+@keyframes .comunicacion{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
+.skills .skill .trabajoenequipo{
+    width: 0%;
+    animation: 2s trabajoenequipo forwards;
+}
+@keyframes .trabajoenequipo{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
+.skills .skill .creatividad{
+    width: 0%;
+    animation: 2s creatividad forwards;
+}
+@keyframes .creatividad{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
 
 /*SECCION CURRICULUM*/
 .curriculum{
