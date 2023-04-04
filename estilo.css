@@ -332,6 +332,16 @@ html{
     100%{width: 80%;}
 }
 
+.skills .skill .python{
+    width: 0%;
+    animation: 2s python forwards;
+}
+@keyframes .python{
+    0%{width: 0%;}
+    100%{width: 70%;}
+}
+
+
 /*SECCION CURRICULUM*/
 .curriculum{
     background-color: #1E2326;
