@@ -26,7 +26,7 @@ html{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 15px 20px;
+    padding: 10px 10px;
 }
 
 .contenedor-header header .logo a{
@@ -603,7 +603,7 @@ html{
 }
 
 .contacto{
-    background-image: url(img/contactbck.png);
+
     background-color: #1E2326;
     color: #fff;
     padding: 50px 0;
@@ -673,7 +673,6 @@ html{
 
 .contacto .col img{
     width: 100%;
-    align-content: left;
 }
 
 .contacto .col .info{
