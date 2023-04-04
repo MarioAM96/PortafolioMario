@@ -685,6 +685,13 @@ html{
     transform: translate(-50%, -50%);
 }
 
+.contacto .contenido-seccion .fila .col h3{
+    color: #1CB698;
+    font-size: 22px;
+    font-weight: bold;
+    display: block;
+}
+
 .contacto .col .info ul{
     list-style: none;
 }
