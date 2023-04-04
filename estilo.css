@@ -381,7 +381,7 @@ html{
     width: 0%;
     animation: 2s creatividad forwards;
 }
-@keyframes .creatividad{
+@keyframes .creatividad1{
     0%{width: 0%;}
     100%{width: 70%;}
 }
