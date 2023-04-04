@@ -672,8 +672,8 @@ html{
 }
 
 .contacto .col img{
-    width: 50%;
-    align: left;
+    width: 100%;
+    align-content: left;
 }
 
 .contacto .col .info{
