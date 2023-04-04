@@ -146,6 +146,10 @@ html{
     margin-bottom: 20px;
 }
 
+.sobremi .contenido-seccion a{
+    color: #fff;
+}
+
 .sobremi .contenido-seccion p span{
     color: #1CB698;
     font-weight: bold;
