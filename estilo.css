@@ -286,7 +286,7 @@ html{
 
 .skills .skill .barra-skill{
     height: 8px;
-    width: 8px;
+    width: 80%;
     background-color: #131517;
     position: relative;
     margin-bottom: 30px;
@@ -329,7 +329,7 @@ html{
 }
 @keyframes htmlcss{
     0%{width: 0%;}
-    100%{width: 89%;}
+    100%{width: 80%;}
 }
 
 /*SECCION CURRICULUM*/
@@ -672,7 +672,7 @@ footer .arriba{
     .nav-responsive{
         display: block;
     }
-    nav.nav-responsive{
+    nav.responsive{
         display: block;
         position: absolute;
         right: 0;
