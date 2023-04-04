@@ -336,7 +336,7 @@ html{
     width: 0%;
     animation: 2s python forwards;
 }
-@keyframes .python{
+@keyframes python{
     0%{width: 0%;}
     100%{width: 70%;}
 }
@@ -345,7 +345,7 @@ html{
     width: 0%;
     animation: 2s laravel forwards;
 }
-@keyframes .laravel{
+@keyframes laravel{
     0%{width: 0%;}
     100%{width: 70%;}
 }
@@ -354,7 +354,7 @@ html{
     width: 0%;
     animation: 2s sql forwards;
 }
-@keyframes .sql{
+@keyframes sql{
     0%{width: 0%;}
     100%{width: 70%;}
 }
@@ -363,7 +363,7 @@ html{
     width: 0%;
     animation: 2s comunicacion forwards;
 }
-@keyframes .comunicacion{
+@keyframes comunicacion{
     0%{width: 0%;}
     100%{width: 70%;}
 }
@@ -372,7 +372,7 @@ html{
     width: 0%;
     animation: 2s trabajoenequipo forwards;
 }
-@keyframes .trabajoenequipo{
+@keyframes trabajoenequipo{
     0%{width: 0%;}
     100%{width: 70%;}
 }
@@ -381,7 +381,7 @@ html{
     width: 0%;
     animation: 2s creatividad forwards;
 }
-@keyframes .creatividad1{
+@keyframes creatividad1{
     0%{width: 0%;}
     100%{width: 70%;}
 }
