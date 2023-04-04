@@ -341,7 +341,6 @@ html{
     100%{width: 70%;}
 }
 
-<<<<<<< HEAD
 .skills .skill .laravel{
     width: 0%;
     animation: 2s laravel forwards;
@@ -386,9 +385,6 @@ html{
     0%{width: 0%;}
     100%{width: 70%;}
 }
-
-=======
->>>>>>> 506bbb5bbccabf972d7bf04598e9fda9c1ce370b
 
 /*SECCION CURRICULUM*/
 .curriculum{
