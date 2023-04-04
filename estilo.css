@@ -398,7 +398,7 @@ html{
     0%{width: 0%;}
     100%{width: 90%;}
 
-
+}
 .skills .skill .dedicacion{
     width: 0%;
     animation: 2s dedicacion forwards;
