@@ -320,7 +320,7 @@ html{
 }
 @keyframes javascript{
     0%{width: 0%;}
-    100%{width: 75%;}
+    100%{width: 70%;}
 }
 
 .skills .skill .htmlcss{
@@ -338,7 +338,7 @@ html{
 }
 @keyframes python{
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 60%;}
 }
 
 .skills .skill .laravel{
@@ -347,7 +347,7 @@ html{
 }
 @keyframes laravel{
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 80%;}
 }
 
 .skills .skill .sql{
@@ -356,7 +356,7 @@ html{
 }
 @keyframes sql{
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 85%;}
 }
 
 .skills .skill .comunicacion{
@@ -365,7 +365,7 @@ html{
 }
 @keyframes comunicacion{
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 85%;}
 }
 
 .skills .skill .trabajoenequipo{
@@ -374,8 +374,36 @@ html{
 }
 @keyframes trabajoenequipo{
     0%{width: 0%;}
-    100%{width: 70%;}
+    100%{width: 90%;}
 }
+
+.skills .skill .creatividad{
+    width: 0%;
+    animation: 2s creatividad forwards;
+}
+@keyframes creatividad{
+    0%{width: 0%;}
+    100%{width: 80%;}
+}
+
+.skills .skill .responsabilidad{
+    width: 0%;
+    animation: 2s responsabilidad forwards;
+}
+@keyframes responsabilidad{
+    0%{width: 0%;}
+    100%{width: 90%;}
+}
+
+.skills .skill .dedicacion{
+    width: 0%;
+    animation: 2s dedicacion forwards;
+}
+@keyframes dedicacion{
+    0%{width: 0%;}
+    100%{width: 90%;}
+}
+
 
 
 /*SECCION CURRICULUM*/
