@@ -12,7 +12,7 @@ function mostrarOcultarMenu(){
 
 function seleccionar(){
     document.getElementById("nav").classList="";
-    menuVisible = flase;
+    menuVisible = false;
 }
  
 
