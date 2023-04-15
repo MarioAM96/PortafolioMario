@@ -594,6 +594,7 @@ html{
     transition: 1s;
 }
 
+
 .portafolio .galeria .proyecto .overlay:hover{
     opacity: 1;
 }
